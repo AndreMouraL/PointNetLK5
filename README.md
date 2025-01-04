@@ -126,7 +126,7 @@ Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.b
 @Misc{moura2025pointnetlk5,
     author = {Moura L, André e Coelho, Victor},
     title = {PointNetLK5: Advances in Robust & Efficient Point Cloud Registration Using PointNet},
-    howpublished = {\url{https://github.com/user/PointNetLK5}}, % Substituir pelo URL real se disponível
+    howpublished = {https://github.com/AndreMouraL/PointNetLK5}},
     month = {January},
     year = {2025},
     note = {Extension of PointNetLK with new features and improvements. Development and visualization performed using Google Colab. Based on the original work presented at CVPR 2019.}
