@@ -124,7 +124,7 @@ Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.b
 ### Citação do PointNetLK5  
 ```
 @Misc{moura2025pointnetlk5,
-    author = {Moura Lima, André e Coelho, Victor},
+    author = {Moura L, André e Coelho, Victor},
     title = {PointNetLK5: Advances in Robust & Efficient Point Cloud Registration Using PointNet},
     howpublished = {\url{https://github.com/user/PointNetLK5}}, % Substituir pelo URL real se disponível
     month = {January},
