@@ -108,7 +108,6 @@ O dataset foi escutado no driver  pois  os experimentos foi feitos no ambiente c
   
 ## Licença
 O uso dataset  ModelNet40l é restrito a fins educacionais e de pesquisa. Para utilizações comerciais, entre em contato com os desenvolvedores.
-### Citação do Trabalho Original
 Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.br (Victor Coelho).  
 
 ### Citação PointNetLK
