@@ -6,7 +6,7 @@ Código-Fonte Original:
 Yasuhiro Aoki  
 
 Modificações e Extensão:  
-André Moura Lima e Victor Coelho 
+André Moura  e Victor Coelho 
 
 ### Requerimentos:  
 * PyTorch a versão mais recente e torchvision  
@@ -111,7 +111,8 @@ O uso dataset  ModelNet40l é restrito a fins educacionais e de pesquisa. Para u
 ### Citação do Trabalho Original
 Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.br (Victor Coelho).  
 
-
+### Citação PointNetLK
+```
 @InProceedings{yaoki2019pointnetlk,
        author = {Aoki, Yasuhiro and Goforth, Hunter and Arun Srivatsan, Rangaprasad and Lucey, Simon},
        title = {PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet},
@@ -119,9 +120,9 @@ Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.b
        month = {June},
        year = {2019}
 }
-
+```
 ### Citação do PointNetLK5  
-
+```
 @Misc{moura2025pointnetlk5,
     author = {Moura Lima, André e Coelho, Victor},
     title = {PointNetLK5: Advances in Robust & Efficient Point Cloud Registration Using PointNet},
@@ -130,6 +131,6 @@ Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.b
     year = {2025},
     note = {Extension of PointNetLK with new features and improvements. Development and visualization performed using Google Colab. Based on the original work presented at CVPR 2019.}
 }
-
+```
 }
 
