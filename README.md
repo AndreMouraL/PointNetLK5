@@ -131,5 +131,5 @@ Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.b
     note = {Extension of PointNetLK with new features and improvements. Development and visualization performed using Google Colab. Based on the original work presented at CVPR 2019.}
 }
 ```
-}
+
 
