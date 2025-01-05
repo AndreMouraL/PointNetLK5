@@ -104,8 +104,16 @@ O dataset foi escutado no driver  pois  os experimentos foi feitos no ambiente c
    - Aplique transformações (rotação e translação) com scripts como `generate_rotation.py` para testar robustez.
 
 ---
+##  Imagens do Dataset com o uso do PointNetLK5 e suas interações e com ICP:
+![poste](https://github.com/user-attachments/assets/e6199587-08d7-4108-9fa4-b00a169ccac7)
+![guarafa](https://github.com/user-attachments/assets/c3000b40-f640-4aa3-a77b-48ccac171979)
+![busto](https://github.com/user-attachments/assets/89b5edb0-92d9-4a84-b845-46cf09be7d77)
+![ribeirao](https://github.com/user-attachments/assets/4faf2e4d-629f-4015-90de-e582f22e994b)
 
-  
+##  Gráfico do Dataset com o uso do PointNetLK5 e suas interações e com ICP:
+![g1](https://github.com/user-attachments/assets/4789d6a2-32d6-4544-87d7-124466810be6)
+![g2](https://github.com/user-attachments/assets/0a046bb0-9c1d-427b-b94e-b6aada7b5951)
+
 ## Licença
 O uso dataset  ModelNet40l é restrito a fins educacionais e de pesquisa. Para utilizações comerciais, entre em contato com os desenvolvedores.
 Contato : am.lima@discente.ufma.br (Andre Moura) e victor.coelho@discente.ufma.br (Victor Coelho).  
