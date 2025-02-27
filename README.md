@@ -1,4 +1,6 @@
 # PointNetLK5: Point Cloud Registration using PointNet
+## Referência  
+O artigo original do autor pode ser encontrado [aqui](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aoki_PointNetLK_Robust__Efficient_Point_Cloud_Registration_Using_PointNet_CVPR_2019_paper.pdf).
 
 # PointNetLK5: Uma extensão do PointNetLK: Registro de Nuvem de Pontos usando PointNet  
 
